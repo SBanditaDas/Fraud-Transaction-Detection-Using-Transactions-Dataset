@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-# Fraud-Transaction-Detection-Using-Transactions-Dataset
-This Project builds a system that can classify if a transaction is fraudulent or not.
-=======
 
----
-
-## 💳 Fraud Detection System
+# 🧾Fraud Detection System
 
 ### Overview :
-This project builds a machine learning model to detect fraudulent transactions based on behavioral and transactional features. It supports financial institutions in identifying suspicious activity and preventing fraud in real time.
+_This project builds a machine learning model to detect fraudulent transactions based on behavioral and transactional features. It supports financial institutions in identifying suspicious activity and preventing fraud in real time._
 
 ---
 
@@ -102,4 +96,4 @@ scikit-learn
 </p>
 
 ---
->>>>>>> 7a22181 (files added)
+
