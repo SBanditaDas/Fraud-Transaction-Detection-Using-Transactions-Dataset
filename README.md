@@ -1,5 +1,5 @@
 
-# 🧾Fraud Detection System
+# 🧾 Fraud Detection System
 
 ### Overview :
 _This project builds a machine learning model to detect fraudulent transactions based on behavioral and transactional features. It supports financial institutions in identifying suspicious activity and preventing fraud in real time._
@@ -55,7 +55,6 @@ print(confusion_matrix(y_test, y_pred))
 #### 6. **Prediction on New Transaction**
 ```python
 input_df = pd.DataFrame(np.zeros((1, len(X_train.columns))), columns=X_train.columns)
-# Fill in values based on confirmed X_train.columns
 model.predict(input_df)
 ```
 
@@ -96,4 +95,5 @@ scikit-learn
 </p>
 
 ---
+
 
